@@ -400,10 +400,10 @@ const Portfolio = () => {
             <p className="text-xl mt-4 opacity-90">Ready to collaborate on your next project</p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
-            <a href="mailto:shrutivaishy610@email.com" className="group bg-white/10 backdrop-blur-md p-8 rounded-xl hover:bg-white/20 transition-all transform hover:scale-105 hover:shadow-2xl text-center">
+            <a href="mailto:shrutivaishy610@gmail.com" className="group bg-white/10 backdrop-blur-md p-8 rounded-xl hover:bg-white/20 transition-all transform hover:scale-105 hover:shadow-2xl text-center">
               <Mail className="w-8 h-8 mx-auto mb-4 group-hover:animate-bounce" />
               <h3 className="text-xl font-semibold mb-2">Email</h3>
-              <p className="opacity-80">shrutivaishy610@email.com</p>
+              <p className="opacity-80">shrutivaishy610@gmail.com</p>
             </a>
             <a href="https://github.com/Shruti-vaishy" target="_blank" rel="noopener noreferrer" className="group bg-white/10 backdrop-blur-md p-8 rounded-xl hover:bg-white/20 transition-all transform hover:scale-105 hover:shadow-2xl text-center">
               <Github className="w-8 h-8 mx-auto mb-4 group-hover:animate-spin" />
